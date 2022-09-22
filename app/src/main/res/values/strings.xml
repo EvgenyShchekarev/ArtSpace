@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="morning_in_a_pine_forest">Morning in a pine forest (1889)</string>
+    <string name="shishkin">Shishkin Ivan</string>
+    <string name="ninth_wave">Ninth Wave (1850)</string>
+    <string name="aivazovsky">Aivazovskiy Ivan</string>
+    <string name="girl_with_peaches">Girl With Peaches (1887)</string>
+    <string name="serov_valentin">Serov Valentin</string>
+    <string name="mona_liza">Mona Liza (1503 – 1519)</string>
+    <string name="leonardo_da_vinci">Leonardo Da Vinci</string>
+    <string name="the_last_day_of_pompeii">The last day of Pompeii (1883)</string>
+    <string name="brulov_karl">Brulov Karl</string>
+    <string name="button_previous">Previous</string>
+    <string name="button_next">Next</string>
+</resources>
